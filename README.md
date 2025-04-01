@@ -42,4 +42,4 @@ Um projeto Spring Boot para gerenciamento de livros e autores, utilizando Spring
 ## 🚀 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone [URL_DO_REPOSITORIO]
+   git clone https://github.com/WeberBar/Ac1-parte-2.git
